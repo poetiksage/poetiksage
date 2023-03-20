@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poetiksage
-- 👀 I’m interested in website development
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning something new everyday
 - 💞️ I’m looking to collaborate on anything related to website development
 - 📫 You can reach me here: namaste@nileshbhatia.in
